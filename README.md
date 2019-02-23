@@ -1,3 +1,3 @@
 # Viterbi-Algorithm
 
-Tried implementing the Viterbi Algorithm to understand it
+Tried implementing the Viterbi Algorithm to understand it.
